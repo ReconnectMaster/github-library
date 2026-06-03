@@ -1,5 +1,7 @@
 Undo your recent changes! Based on the repository information, here are your options:
 
+https://github.com/ReconnectMaster/github-library/commits/main
+
 ## Option 1: Revert via Git (Recommended for commits)
 If you've already committed your changes, you can revert the most recent commit:
 ```bash
@@ -7,7 +9,6 @@ git revert HEAD
 ```
 This creates a new commit that undoes the changes from the previous commit.
 
-https://github.com/ReconnectMaster/github-library/commits/main
 
 
 Alternatively, to undo without creating a new commit (soft reset):
