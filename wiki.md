@@ -1,3 +1,9 @@
+Spliting Github into 2 profiles
+  - Main (default) section --> Personal / public sandbox
+  - Organization section (at Logo profile) --> Create unrelated work or co-worker purpose.
+
+---
+
 **The easiest rule for separating repository**
 
 Ask yourself:
