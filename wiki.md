@@ -3,6 +3,7 @@
   - Organization section (at Logo profile) --> Create unrelated work or co-worker purpose.
 
 ---
+---
 
 **The easiest rule for separating repository**
 
