@@ -3,9 +3,9 @@ Welcome to my GitHub profile.
 Github Documentary
 https://docs.github.com/en
 
---
+---
 
-## How To:
+## How To
 
 **GitHub profiles with custom README files** — they're not automatic. Here's how they work:
 
