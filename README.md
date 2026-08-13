@@ -1,21 +1,20 @@
 ![Project Screenshot](./images/screenshot.png)
 
-# Congratulations! :tada:
 
-<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+### README.md
+Explains what the project is about. It’s the first thing visitors see.
 
-Yay **reconnect-master** you finished the exercise! Nice work :tada:
+### .gitignore
+Lists files/folders Git should not track (like node_modules/, .env, or build outputs)
 
-If you would like to retrace your steps, you can always revisit the exercise.
+### LICENSE
+Defines how others can legally use your code. Without it, your repo defaults to “all rights reserved.”
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/reconnect-master/skills-introduction-to-github/issues/1)
+### CONTRIBUTING.md
+Optional, but useful if you expect collaborators. It explains how to submit changes.
 
-> [!TIP]
-> Mona won't grade you this time! 😉
+### CODE_OF_CONDUCT.md
+Sets community standards for behavior.
 
-
-### Craving more? :raising_hand:
-
-Did you enjoy this practical style of learning? There's no better way to learn than building things, right?!
-
-Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
+### CHANGELOG.md
+Tracks version history and updates
