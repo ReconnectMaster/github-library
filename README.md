@@ -23,5 +23,4 @@ Sets community standards for behavior.
 Tracks version history and updates
 
 > [!Notice]
-
 The most useful starting point is usually README.md (to explain your project) and .gitignore (to keep clutter out). After that, you can add a LICENSE if you want others to use your code.
